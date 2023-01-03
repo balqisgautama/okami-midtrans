@@ -24,6 +24,6 @@
     "max_idle_connection": 2
   },
   "midtrans": {
-    "server_key": "Mid-server-0AFNCL9VItPz-2NHB-w2KRnX"
+    "server_key": "secret-key-production"
   }
 }
